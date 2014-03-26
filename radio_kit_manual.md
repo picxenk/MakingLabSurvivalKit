@@ -98,7 +98,9 @@
  - 사람마다 조금씩 방법이 다를 수 있습니다만 혹시 납땜이 매우 어렵게 느껴진다면 조금씩 방법을 달리하면서 편한 방법/느낌을 찾아보세요.
 
 ## 조립하기 : 캐패시터
-
+ - 총 4종, 6개의 캐패시터를 조립합니다.
+ - 사진을 참고해서 PCB에 순서대로 납땜해보세요.
+ 
 ![](http://xenbio.net/images/radiokit/rkit_05.jpg 'capacitor')
 ![](http://xenbio.net/images/radiokit/rkit_06.jpg 'capacitor')
 ![](http://xenbio.net/images/radiokit/rkit_07.jpg 'capacitor')
@@ -106,17 +108,54 @@
 ![](http://xenbio.net/images/radiokit/rkit_08.jpg 'capacitor')
 
 ## 조립하기 : 저항
+- 총 4종, 5개의 저항을 조립합니다.
+
+![](http://xenbio.net/images/radiokit/rkit_09.jpg 'resistors')
+![](http://xenbio.net/images/radiokit/rkit_10.jpg 'resistors')
 
 
 
+## 조립하기 : 마이크와 오디오잭
+ - 오디오잭은 어디에 끼워야할지 알기 쉽습니다.
+ - 마이크의 경우는 방향에 주의해야합니다. 사진처럼 '-' 선 표시가 있는 부분이 음(-)극에 연결되어야합니다. 사진에 표시해둔 부분을 보고 주의해서 납땜해주세요.
+ 
+![](http://xenbio.net/images/radiokit/rkit_11.jpg 'mic & audio jack')
+![](http://xenbio.net/images/radiokit/rkit_12.jpg 'mic & audio jack')
 
-### 가변 캐패시터
+## 조립하기 :  코일
 
+![](http://xenbio.net/images/radiokit/rkit_13.jpg 'coil')
 
-### 코일
+ - 코일은 표면이 코팅이 되어있어서 벗겨줘야 전기가 통한답니다.
+ - 롱로우즈와 같은 도구를 사용해서 납땜할 부분의 코팅을 충분히 벗겨주세요.
+ - 멀티미터의 '도통 테스트'을 이용해서 코일 코팅이 잘 벗겨졌는지 꼭 확인해주세요.
 
+![](http://xenbio.net/images/radiokit/rkit_14.jpg 'coil')
+![](http://xenbio.net/images/radiokit/rkit_15.jpg 'coil')
 
-### 마이크와 오디오잭
+![](http://xenbio.net/images/radiokit/rkit_16.jpg 'coil')
+
+## 조립하기 : 가변 캐패시터
+ - 이제 거의 끝나갑니다. 귀엽게 생긴 가변 캐패시터를 납땜합니다.
+ 
+![](http://xenbio.net/images/radiokit/rkit_17.jpg 'trimmer')
+![](http://xenbio.net/images/radiokit/rkit_18.jpg 'trimmer')
+
+## 조립하기 : 배터리 스냅
+ - 마지막으로 배터리를 연결할 전원부 스냅을 납땜해주세요.
+ - 빨간색이 양(+)극, 검은색이 음(-)극입니다. 방향에 주의해 주세요.
+ 
+![](http://xenbio.net/images/radiokit/rkit_19.jpg 'snap')
+![](http://xenbio.net/images/radiokit/rkit_20.jpg 'snap')
+
+## 조립하기 : 정리 및 완성!! 
+ - 납땜이 끝났으면 각 부품들의 불필요한 다리를 깔끔하게 정리해주세요.
+ - 물론 각 부품을 납땜할 때 마다 중간중간 정리해줘도 좋습니다.
+ - 9V 배터리를 연결하면 완성! '이제 전파는 나가고 있다!!!'
+  
+![](http://xenbio.net/images/radiokit/rkit_21.jpg 'cut')
+![](http://xenbio.net/images/radiokit/rkit_22.jpg 'end')
+
 ## 키트활용
 ## 참고문헌
 ----
