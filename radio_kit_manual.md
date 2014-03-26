@@ -73,17 +73,41 @@
  - 작업대를 깨끗하게 정리하고, 조립에 필요한 준비물도 확인합니다.
  - PCB 보드를 보고 어떤 부품들이 어디에 들어가는지 미리 살펴봅니다.
 
-![](http://xenbio.net/images/radiokit/IMG_9340.jpg 'PCB board')
+![](http://xenbio.net/images/radiokit/rkit_01.jpg 'PCB board')
 
  - 조립 순서는 특별히 정해진 것은 없습니다만, 납땜을 처음 하는 분들은 아래 순서대로 진행하면 큰 어려움 없이 조립이 가능합니다.
 
-### 트랜지스터
+## 조립하기 : 트랜지스터
+ - 라디오 키트에서 가장 핵심이 되는 부품 중 하나인 트랜지스터를 먼저 납땜해봅시다.
+ - 아래 사진처럼 PCB에서 프린트가 되지 않은 면에 부품을 꽂을 것입니다. (글자가 찍히지 않은 쪽에 부품을 얹으면 보기 예뻐서 이렇게 만든건데요, 조립할 때에는 좀 불편할 수 있겠군요. 나중에는 개선해야할거 같아요.)
+
+![](http://xenbio.net/images/radiokit/rkit_02.jpg 'transistor')
+![](http://xenbio.net/images/radiokit/rkit_03.jpg 'transistor')
+
+## 잠깐! 납땜은 어떻게??
+ - 처음 납땜을 하는 분들은 뜨거운 인두기를 다루기가 겁이날 수도 있겠군요. 거기다가 몸에 매우 나쁠거 같은 납도 다뤄야하니 말입니다. ㅜ..ㅜ
+ - 물론 뜨겁게 달궈졌으니 조심히 다뤄야합니다. 납연기도 발생할테니 밀폐된 공간보다는 환기가 되는 곳에서 작업해주세요. 
+ - 하지만 약간의 주의사항과 요령만 익히면 납땜은 매우 재밌는 작업이랍니다.
+
+![](http://xenbio.net/images/radiokit/rkit_04.jpg 'soldering')
+
+ - 사진처럼 한 손에는 인두기를, 다른 손에는 실납을 쓸만큼 쥐어주세요.
+ - 인두기로 납땜을 할 위치를 몇 초간 가열해줍니다.
+ - 실납이 녹을만큼 가열되었으면 실납의 끝부분을 납땜할 위치에 밀어넣어보세요.
+ - 실납이 부드럽게 녹으면서 가열된 위치에 쏙 빨려들어갑니다. 
+ - 사람마다 조금씩 방법이 다를 수 있습니다만 혹시 납땜이 매우 어렵게 느껴진다면 조금씩 방법을 달리하면서 편한 방법/느낌을 찾아보세요.
+
+## 조립하기 : 캐패시터
+
+![](http://xenbio.net/images/radiokit/rkit_05.jpg 'capacitor')
+![](http://xenbio.net/images/radiokit/rkit_06.jpg 'capacitor')
+![](http://xenbio.net/images/radiokit/rkit_07.jpg 'capacitor')
+
+![](http://xenbio.net/images/radiokit/rkit_08.jpg 'capacitor')
+
+## 조립하기 : 저항
 
 
-### 저항
-
-
-### 캐패시터
 
 
 ### 가변 캐패시터
