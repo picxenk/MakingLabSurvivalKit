@@ -2,7 +2,7 @@
 
 생존키트는 4회 안양공공예술프로젝트(APAP)의 만들자연구실과 은파산업+김승범이 기획한 생존키트 워크숍의 일환으로 제작되었습니다. 생존키트의 모든 설계도와 매뉴얼은 다음 URL에서 관리, 공개되어 누구나 사용할 수 있습니다.
 
- - http://github.com/picxenk/Makinglab...
+ - http://github.com/picxenk/MakingLabSurvivalKit
 
 ## 생존키트 ?!
 
